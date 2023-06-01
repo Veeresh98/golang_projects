@@ -1,0 +1,19 @@
+Keys to remember 
+Note:
+
+1. <h1> to <h6>	Defines HTML headings
+
+2. <!DOCTYPE> 	Defines the document type
+
+3. The <meta> tag defines metadata about an HTML document. Metadata is data (information) about data. 
+<meta> tags always go inside the <head> element, 
+and are typically used to specify character set, page description, keywords, author of the document
+
+4. <label><label>  is used for user to enrty the details 
+
+5. FileServer: The Golang FileServer takes the Directory of the system which is to be served over HTTP and returns a Handler.
+
+6. ListenAndServe function to start the server and listen for requests.
+
+7. Parse is a function that accepts a string layout and a string value as arguments
+
